@@ -6,6 +6,8 @@ title: Préparatifs avant le départ
 metaDescription: mes préparatifs
 thumbnail: /assets/IMG_20210906_203123.jpg
 ---
+![sor](/assets/IMG_20210906_203002.jpg)
+
 Mon départ a été retardée avec une première difficulté avant même le départ : je n'avais pas encore reçu la tente de camping que j'avais commandé sur Internet.
 
 J'ai donc décalé de quelques jours mon départ et je vais arriver à Perpignan samedi matin après une nuit passé dans le train de nuit Paris - Perpignan en passant par Toulouse !
