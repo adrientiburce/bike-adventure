@@ -12,7 +12,7 @@ J'ai donc décalé de quelques jours mon départ et je vais arriver à Perpignan
 
 Cette semaine supplémentaire à la maison m'a permis de retourner faire quelques achat chez Décathlon : j'ai notamment racheté une paire de roues neuves, une sacoche de bidon ou encore de quoi faire la popote le soir : butagaz et petite cartouche de gaz.
 
-![sortie à vélo](/assets/1631202411191.jpg)
+![sortie à vélo](/assets/1631202655909.jpg)
 
 J'ai aussi fait une sortie de 50 kilomètres avec tout le matériel et le vélo chargé : 20,2kg sur la balance avec un vélo "à nu" qui pèse 10kg j'ai donc un peu plus de 10kg de chargement (bidons compris : j'avais 2L d'eau au moment de la pesée). J'étais content de la ballade et les sacoches ne me gênaient pas donc à voir ce que cela donnera en Espagne.
 
