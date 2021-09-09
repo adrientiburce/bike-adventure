@@ -4,7 +4,7 @@ path: /bienvenue
 date: 2020-10-08T06:08:53.137Z
 title: Préparatifs avant le départ
 metaDescription: mes préparatifs
-thumbnail: ''
+thumbnail: /assets/IMG_20210906_203123.jpg
 ---
 Mon départ a été retardée avec une première difficulté avant même le départ : je n'avais pas encore reçu la tente de camping que j'avais commandé sur Internet.
 
