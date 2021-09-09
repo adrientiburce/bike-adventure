@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "EuroVélo 8 ~ España",
+  "siteUrl": "https://eurovelo.webrush.fr/",
+  "description": "",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "EuroVélo 8 ~ España",
+    "description": "Bienvenue sur ce blog où vous pourrez suivre mes aventures à vélo en Espagnes.\n\nJ'ai comme objectif de descendre la côte méditerranéenne espagnole pour atteindre Gibraltar. Je vais partir de Perpignan et pour atteindre le Sud de l'Espagne mes jambes devront pédaler environ 1500 km !"
   }
 }
