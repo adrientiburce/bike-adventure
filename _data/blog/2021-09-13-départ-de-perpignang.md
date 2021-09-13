@@ -12,3 +12,7 @@ thumbnail: /assets/IMG_20210913_110424_copy_600x714.jpg
 
 
 ![](/assets/IMG_20210911_121029_copy_800x600.jpg)
+
+
+
+![](/assets/239127.jpg)
